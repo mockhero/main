@@ -1,11 +1,147 @@
 {
-  "posts": [
+  "recommendGirlList": [
+    {}
+  ],
+  "textBanner": [
     {
-      "id": 1,
-      "title": "hello"
+      "bannerImg": "https://t7.baidu.com/it/u=2168645659,3174029352&fm=193&f=GIF",
+      "bannerUrl": "https://t7.baidu.com/it/u=2168645659,3174029352&fm=193&f=GIF"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "city": [
+    {
+      "id": "251015271559922600",
+      "cityName": "西安",
+      "cityCode": 3595,
+      "cityPinyin": 9152,
+      "hotCityFlag": 1269,
+      "cityAddress": "Xh",
+      "firstCity": "西",
+      "countryType": 1
+    },
+    {
+      "id": "919164206942850501",
+      "cityName": "东京",
+      "cityCode": 1556,
+      "cityPinyin": 3330,
+      "hotCityFlag": 1125,
+      "cityAddress": "WvPafCF",
+      "firstCity": "东",
+      "countryType": 0
+    }
+  ],
+  "girlDetail": {
+    "allServicePrice": 0,
+    "commentNum": 0,
+    "confirmStatus": 0,
+    "depositRatio": 0,
+    "depositRatioPrice": 0,
+    "detailPrivilege": "string",
+    "detailUrl": "string",
+    "fastServicePrice": 0,
+    "fastServicePriceInit": 0,
+    "girlAge": "string",
+    "girlBrokerInfoDTO": {
+      "brokerContact": "string",
+      "brokerIntroduce": "string",
+      "brokerName": "string",
+      "id": "string"
+    },
+    "girlBust": "string",
+    "girlHeight": "string",
+    "girlIntroduction": "string",
+    "girlOrderNum": 0,
+    "id": "string",
+    "nickName": "string",
+    "nightServicePrice": 0,
+    "orderFlag": "string",
+    "paidStatus": 0,
+    "rocketStatus": 0,
+    "serviceItemNames": "string",
+    "starLevel": 0,
+    "tag_names": "string",
+    "userGirlCommentDTOList": [
+      {
+        "commentContent": "string",
+        "commentImg": "string",
+        "commentTime": "string",
+        "girlId": 0,
+        "headImg": "string",
+        "id": "string",
+        "nickName": "string"
+      }
+    ],
+    "vipStatus": 0,
+    "weight": "string"
+  },
+  "channel": [
+    {
+      "id": "424351163983790187",
+      "thirdMerchantName": "支付宝",
+      "thirdMerchantId": "VWv",
+      "useType": 6973,
+      "subPayType": 6377,
+      "subPayTypeName": "支付宝1",
+      "sort": 3928,
+      "fastAmount": [
+        "phwS8",
+        "M73",
+        "eccSqmd",
+        "wuC",
+        "js",
+        "CzejkPYU",
+        "xJO8gjPsTG",
+        "r",
+        "iI"
+      ],
+      "maxAmount": 7500.11,
+      "minAmount": 8092.53
+    }
+  ],
+  "coinList": [
+    {
+      "id": "767006599460190286",
+      "minValue": 4940,
+      "maxValue": 6050,
+      "addRate": "0.2",
+      "addMaxValue": 2448,
+      "addPrice": 8870.39,
+      "coinType": 2
+    },
+    {
+      "id": "782039639889675213",
+      "minValue": 8084,
+      "maxValue": 6816,
+      "addRate": "0.8",
+      "addMaxValue": 1156,
+      "addPrice": 5357.34,
+      "coinType": 2
+    }
+  ],
+  "vipCard": [
+    {
+      "id": "87784198542310889",
+      "name": "Hcj2P",
+      "originalPrice": 4848.16,
+      "discountPrice": 4297.18,
+      "rightsLevel": 8130,
+      "title": "fb6k3X14",
+      "content": "aPfkr3Br79",
+      "validDay": 2798,
+      "privilegeImg": "http://img01.yohoboys.com/contentimg/2018/11/22/13/0187be5a52edcdc999f749b9e24c7815fb.jpg",
+      "giveNum": 683
+    },
+    {
+      "id": "936025007020818277",
+      "name": "shEXhoiKf",
+      "originalPrice": 7799.6,
+      "discountPrice": 8909.17,
+      "rightsLevel": 9788,
+      "title": "GIyoB",
+      "content": "jlU",
+      "validDay": 269,
+      "privilegeImg": "http://img01.yohoboys.com/contentimg/2018/11/22/13/0187be5a52edcdc999f749b9e24c7815fb.jpg",
+      "giveNum": 7818
+    }
+  ]
 }
