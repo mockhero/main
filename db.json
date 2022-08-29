@@ -1,5 +1,16 @@
 {
-  "pozition": {
+  "info": {
+    "credentials": "string",
+    "goldBalance": 0,
+    "headImgUrl": "string",
+    "id": "string",
+    "mobile": "string",
+    "nickName": "string",
+    "userName": "string",
+    "vipEndTime": "string",
+    "vipLevel": "string"
+  },
+  "position": {
     "address": "string",
     "cityCode": 0,
     "cityName": 0,
