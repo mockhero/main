@@ -1,7 +1,13 @@
 {
-  "recommendGirlList": [
-    {}
-  ],
+  "pozition": {
+    "address": "string",
+    "cityCode": 0,
+    "cityName": 0,
+    "districtCode": 0,
+    "latitude": 0,
+    "longitude": 0,
+    "provinceCode": 0
+  },
   "textBanner": [
     {
       "bannerImg": "https://t7.baidu.com/it/u=2168645659,3174029352&fm=193&f=GIF",
